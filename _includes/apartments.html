@@ -1,0 +1,56 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Apartments</h2>
+                    <!--<h3 class="section-subheading text-muted">A selection of recent Innovare projects.</h3>-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Looking for a Lower Queen Anne apartment for rent - unfurnished or furnished? The Standard offers the location, charm, functionality, and boutique atmosphere you desire.</p>
+                    <p>When you want to get away from the noise of the city, but still want to be just a FEW blocks away from cafés, shops, groceries, transportation, entertainment, scenic walks, employment and …come home to The Standard.</p>
+                    <p>Located on a quite street, surrounded by exceptional views of the Puget Sound and the Space Needle, The Standard is a residential solace within the city.  A place to enjoy charming and spacious homes, a place you can walk everywhere, a place your pet will love, a place to get to know your neighbors relaxing in the open-air courtyard or over a friendly game of outdoor ping pong. The Standard is a place you will want to call HOME. </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>At The Standard you can find:</p>
+                    <p><ul class="amenities">
+                        <li>Spacious one, two and three bedroom apartments</li>
+                        <li>Our one bedroom homes are TRUE one-bedrooms: a bedroom with a closet and a door that closes (along with a window), a separate living room area, a separate bathroom, and a separate kitchen</li>
+                        <li>Our one bedroom homes welcome your King or Queen size bed</li>
+                        <li>Amazing views of Elliot Bay and the Space Needle</li>
+                        <li>Quartz counter-tops with tile back-splash</li>
+                        <li>Hardwood flooring</li>
+                        <li>Plenty of storage and closet space</li>
+                        <li>On-site limited reserved parking</li>
+                        <li>Laundry center</li>
+                        <li>Community garden</li>
+                        <li>Outdoor Ping Pong Table</li>
+                        <li>Pet friendly</li>
+                        <li>Flexible Lease Terms</li>
+                    </ul></p>
+                </div>
+            </div>
+            <div class="row">
+            {% for post in site.posts %}
+                <div class="col-md-3 col-sm-5 portfolio-item">
+                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/apartments/{{ post.thumbnail }}" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.sqft }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

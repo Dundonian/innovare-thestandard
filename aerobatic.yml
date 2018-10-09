@@ -1,0 +1,17 @@
+id: 4a41f43c-3bd2-429b-94a7-538656d6c8c7
+deploy:
+  ignore: []
+  directory: _site
+plugins:
+  - name: form-submit
+    method: post
+    path: /contact-us
+    options:
+      formName: contact-us
+      recaptchaSecret: $RECAPTCHA_SECRET_KEY
+      targets:
+        - name: email
+          subject: New The Standard Apartment Enquiry
+          recipients:
+            - anna@innovareinvestments.com
+  - name: webpage

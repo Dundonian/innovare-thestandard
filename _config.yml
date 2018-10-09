@@ -1,10 +1,10 @@
-url: https://www.innovareinvestments.com
+url: https://thestandard.innovareproperties
 baseurl: ''
 
 # Site settings
-title: Innovare Investments
+title: The Standard
 email: anna@innovareinvestments.com
-description: "Real Estate Investment Company"
+description: "Queen Anne apartments for rent"
 
 # Color settings (hex-codes without the leading hash-tag)
 #color:
@@ -18,42 +18,6 @@ color:
   secondary-dark: 333
   nav-bg: F8F8FF
 
-# Team names, titles and social links
-people:
-- name: Anna Gowans
-  emp: 1
-  pic: anna
-  position: Partner
-  bio: |
-    Anna Gowans is the majority owner of Innovare Investments. With more than 12 years of real estate experience, she’s responsible for acquisition, finance and analytics, asset management and investor matters.
-    <br><br>
-    Prior to Innovare, Anna was the CFO of Evolution Projects (“eP”), where she managed financial, legal, and operational matters of the firm.
-    <br><br>
-    Before joining eP, Anna worked for one of the world’s largest real estate investment management firms, ING Clarion/Clarion Partners. During her 7+ years with Clarion, Anna was part of the acquisition team covering the Northwest, Northern California, Arizona and Colorado. She acquired over $1.4 billion in real estate assets across all property types and risk levels.  
-    <br><br>
-    Anna was born and raised in a small town in what was then Communist Poland. A first-generation college student, she attended law school at the University of Wroclaw prior to immigrating to the United States, and Seattle, in 2000. While still mastering English, Anna graduated from the University of Washington with honors, receiving a degree in International Studies with a concentration in International Political Economy.
-    <br><br>
-    Anna lives in Queen Anne with her Scottish born husband and 3 children. They love the outdoors and Seattle’s easy access to water and mountains. In their free time they enjoy skiing, mountain biking, and traveling. Aside from regular family visits to Poland and Scotland, they greatly enjoy exploring new countries and cultures.
-    <br><br>
-    Appreciative of all that Seattle has provided since their arrival, in their free time, Anna’s family gives their support to their favorite communities such as Mary’s Place, Ronald McDonald House, The Forgotten Children’s Fund, and the Orion Center.
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/anna-gowans-16726569/
-- name: Steve Latimer
-  emp: 2
-  pic: steve
-  position: Partner
-  bio: |
-    Steve Latimer has been in the real estate investment management business since 1986. During that time, he has held many functional roles at Clarion Partners and its predecessors, including asset management, acquisitions and portfolio management, as well as heading the firm’s 20 client, $20 billion separate account business and being a member of the firm’s Executive Board, Investment Committee and Valuation Committee.
-    <br><br>
-    He has been involved in the acquisition and management of billions of dollars of real estate investments, across all major propery types and having a broad range of risk profiles. Steve is resigning from his position at Clarion Partners as of June 30th, 2018.
-    <br><br>
-    Steve holds an MBA from Columbia University and a BS degree from Providence College.
-    <br><br>
-    Now an empty-nester, Steve and his wife live on a house boat and enjoy traveling, visiting with their adult children, and hiking with their golden retriever. On the evenings and weekends Steve can be found on the court refereeing high school and women’s community college basketball. Steve is also involved in several community and charitable organizations including Reading Partners, Sports in School and ALS Therapy Development Institute. 
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/steve-latimer-a550b579/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -70,8 +34,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 512 5th Ave W
+  - line: Seattle, WA 98119
 
 # Build settings
 markdown: kramdown

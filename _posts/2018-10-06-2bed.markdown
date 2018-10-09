@@ -1,0 +1,12 @@
+---
+title: 2 Bedrooms
+sqft: 700 SF
+layout: default
+modal-id: 3
+img: 2bed-floorplan.png
+thumbnail: 2bed-floorplan.png
+alt: image-alt
+project: The Standard
+description: Investment, Property Management
+
+---

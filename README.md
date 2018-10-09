@@ -1,4 +1,4 @@
-InnovareInvestments.com
+The Standard.Innovare.Properties
 =======================
 
-Innovare Investments Website: [http://innovareinvestments.com ](http://innovareinvestments.com)
+Innovare Investments Website for The Standard property: [http://thestandard.innovare.properties](http://thestandard.innovare.properties)

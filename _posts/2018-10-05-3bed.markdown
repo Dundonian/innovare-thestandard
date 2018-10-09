@@ -1,0 +1,12 @@
+---
+title: 3 Bedrooms
+sqft: 900 SF
+layout: default
+modal-id: 4
+img: 3bed-floorplan.png
+thumbnail: 3bed-floorplan.png
+alt: image-alt
+project: The Standard
+description: Investment, Property Management
+
+---

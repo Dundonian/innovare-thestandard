@@ -1,0 +1,12 @@
+---
+title: 1 Bedroom
+sqft: approx. 600 SF
+layout: default
+modal-id: 2
+img: 1bed-floorplan.png
+thumbnail: 1bed-floorplan.png
+alt: image-alt
+project: The Standard
+description: Investment, Property Management
+
+---
