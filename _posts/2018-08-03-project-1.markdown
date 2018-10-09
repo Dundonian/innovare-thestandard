@@ -1,0 +1,17 @@
+---
+title: The Standard
+subtitle: Acquisition, Property Management
+layout: default
+modal-id: 7
+date: 2018-08-03
+img: thestandard.jpg
+thumbnail: thestandard-thumb.jpg
+alt: image-alt
+project-date: August 2018
+project: The Standard
+category: Multi-Family
+address: 512 5th Ave W, Seattle, WA 98119
+map: NvFfyu1esrm
+description: Investment, Property Management
+
+---
