@@ -7,6 +7,6 @@ img: 1bed-furnished.jpg
 thumbnail: 1bed-furnished.jpg
 alt: image-alt
 project: The Standard
-description: Investment, Property Management
+rent: $1,795
 
 ---

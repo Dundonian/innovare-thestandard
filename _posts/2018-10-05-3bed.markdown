@@ -7,6 +7,6 @@ img: 3bed-floorplan.png
 thumbnail: 3bed-floorplan.png
 alt: image-alt
 project: The Standard
-description: Investment, Property Management
+rent: $2,195
 
 ---
